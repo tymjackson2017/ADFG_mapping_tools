@@ -1,2 +1,4 @@
 # ADFG_mapping_tools
-Simple Tools for Mapping in ggplot
+Repository for sharing simple tools for mapping in ggplot
+
+
