@@ -13,5 +13,5 @@ Workflow:
 Additional Resources:  
 https://github.com/tidyverse/ggplot2/wiki/plotting-polygon-shapefiles  
 https://mgimond.github.io/Spatial/coordinate-systems-in-r.html  
-https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html
-
+https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html  
+http://oswaldosantos.github.io/ggsn/
